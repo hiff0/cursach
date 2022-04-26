@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623889839 source:d:\c\cursach\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	<fstream>
+	<windows.h>
+	<string>
+
